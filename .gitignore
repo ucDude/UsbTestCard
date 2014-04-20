@@ -3,3 +3,4 @@ Debug/
 .config/
 *.o
 Thumbs.db
+gitPushOnline.sh
